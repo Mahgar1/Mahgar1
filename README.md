@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍🎓 - Developer in training 2nd semester.<br>📚 I'm currently learning SalesForce and Java.<br>🎯 Goals: SalesForce Developer Jr.<br>🌍 Me encontre em: <br>* LinkedIn * <a href="https://www.linkedin.com/in/mahgar-dev" target="_blank">mahgar-dev</a>.</p>
+<p align="left">👨‍🎓 - Developer in training 2nd semester.<br>📚 I'm currently learning SalesForce and Java.<br>🎯 Goals: SalesForce Developer Jr.<br>🌍 meet me in: <br>* LinkedIn * <a href="https://www.linkedin.com/in/mahgar-dev" target="_blank">mahgar-dev</a>.</p>
 
 
 ###
